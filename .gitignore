@@ -1,1 +1,2 @@
-scripts/.env
+src/.env
+/venv
